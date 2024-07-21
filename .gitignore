@@ -1,0 +1,6 @@
+.*
+!.gitignore
+!.editorconfig
+!.github
+
+/cbctl
